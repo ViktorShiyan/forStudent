@@ -1,5 +1,9 @@
 import java.util.regex.*;
 
+/**
+ * Найти количество вхождений подстроки “test” в строке
+ * “astratestestdumbcreeptestonehappytest”.
+ */
 class Occurrence {
     public static void main(String[] args) {
         String str = "astratestestdumbcreeptestonehappytest";

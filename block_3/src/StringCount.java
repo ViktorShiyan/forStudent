@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * Написать программу, определяющую количество слов в строке, введенной с
+ * клавиатуры (слова в строке разделены пробелом).
+ */
 public class StringCount {
     public static void main(String[] args) {
         System.out.println("Введите предложение");

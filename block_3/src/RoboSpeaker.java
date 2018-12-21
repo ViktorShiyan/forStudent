@@ -1,3 +1,14 @@
+/**
+ * Два робота ведут диалог (слова одного робота чередуются со словами
+ * другого). Первый может произносить слова: sparky, hi, star. Второй – you, see,
+ * out. Даны 5 строк:
+ * Sparkyssstarout
+ * Outhiyousparky
+ * starseesparkyyou
+ * sstarseeoutuyytgf
+ * seehiyousparky
+ * Определить, какие из них являются диалогами.
+ */
 public class RoboSpeaker {
     public static void main(String[] args) {
         String[] lines = {

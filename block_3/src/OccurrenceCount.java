@@ -3,6 +3,11 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * Строка, введенная с клавиатуры, содержит набор символов: буквы, цифры,
+ * знаки операций, спец. символы. Найти в данной строке наиболее часто
+ * встречающуюся букву.
+ */
 public class OccurrenceCount {
     public static void main(String[] args) {
         System.out.println("Введите строку: ");
